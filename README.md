@@ -3,28 +3,20 @@
 A full-stack file management system that allows users to securely upload, manage, and share files.  
 This project demonstrates a modern development workflow, integrating **Spring Boot** and **React** with cloud storage, authentication, and payment gateway support.
 
-## 📸 Screenshots  
+## Screenshots
 
-| Landing Page | Dashboard |  
-| :---: | :---: |  
-| ![Landing Page](<img width="1919" height="904" alt="Screenshot 2025-08-16 101901" src="https://github.com/user-attachments/assets/2835ed33-f1e7-4141-be6a-a08d82768d42" />
+| Landing Page | Dashboard |
+| :---: | :---: |
+| ![Landing Page](https://github.com/user-attachments/assets/2835ed33-f1e7-4141-be6a-a08d82768d42) | ![Dashboard](https://github.com/user-attachments/assets/5a9fda57-0797-45e3-af60-8d34eafc25f6) |
 
-) | ![Dashboard](<img width="1902" height="909" alt="Screenshot 2025-08-20 153718" src="https://github.com/user-attachments/assets/5a9fda57-0797-45e3-af60-8d34eafc25f6" />
+| File View | Payment Details |
+| :---: | :---: |
+| ![File View](https://github.com/user-attachments/assets/46f8f385-6f6b-4ff5-aecd-788224f6f93c) | ![Payment Details](https://github.com/user-attachments/assets/de12df42-fb7b-4b02-ad2b-95d520128233) |
 
-) |  
+| Signup | Subscription Plan |
+| :---: | :---: |
+| ![Signup](https://github.com/user-attachments/assets/ef0a956f-3056-491e-b9af-b7b957effbe7) | ![Subscription Plan](https://github.com/user-attachments/assets/f6021059-0f84-435b-9122-5d16f9ee960d) |
 
-| File View | Payment Details |  
-| :---: | :---: |  
-| ![File View](<img width="1892" height="909" alt="Screenshot 2025-08-20 154056" src="https://github.com/user-attachments/assets/46f8f385-6f6b-4ff5-aecd-788224f6f93c" />
-) | ![Payment](<img width="1915" height="903" alt="Screenshot 2025-08-20 154159" src="https://github.com/user-attachments/assets/de12df42-fb7b-4b02-ad2b-95d520128233" />
-) |  
-
-| Login | Subscription Plan |  
-| :---: | :---: |  
-| ![Login]<img width="1896" height="907" alt="Screenshot 2025-08-20 153841" src="https://github.com/user-attachments/assets/ef0a956f-3056-491e-b9af-b7b957effbe7" />
- | ![Subscription Plan](<img width="1919" height="910" alt="Screenshot 2025-08-20 153803" src="https://github.com/user-attachments/assets/f6021059-0f84-435b-9122-5d16f9ee960d" />
-
-) |  
 
 ## Key Features
 
