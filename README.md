@@ -1,67 +1,101 @@
+# CloudShare ☁️
 
-CloudShare: A Full-Stack File Management System ☁️
-CloudShare is a professional-grade web application that allows users to securely upload, manage, and share files. This project was built to demonstrate a modern full-stack development workflow and mastery of key technologies.
+A full-stack file management system that allows users to securely upload, manage, and share files.  
+This project demonstrates a modern development workflow, integrating **Spring Boot** and **React** with cloud storage, authentication, and payment gateway support.
 
-Screenshots
-<img width="1896" height="903" alt="Screenshot 2025-08-20 154010" src="https://github.com/user-attachments/assets/8ef54ac5-8fa9-424f-8858-f0c6a54d173a" />
-<img width="1892" height="909" alt="Screenshot 2025-08-20 154056" src="https://github.com/user-attachments/assets/35e9797f-b9d8-4f5b-b1a6-717994304eb6" />
-<img width="1892" height="883" alt="Screenshot 2025-08-20 154025" src="https://github.com/user-attachments/assets/65f1a406-f816-4c4e-9f22-123e6d4378b4" />
+## Screenshots
 
+| Dashboard | File List |
+| :---: | :---: |
+| ![Dashboard](https://github.com/user-attachments/assets/8ef54ac5-8fa9-424f-8858-f0c6a54d173a) | ![File List](https://github.com/user-attachments/assets/35e9797f-b9d8-4f5b-b1a6-717994304eb6) |
 
-## 🚀 Features  
-- 📂 Upload, view, download & delete files  
-- 🔒 Public/Private toggle for files  
-- 🔗 Share public files via unique links  
-- 👥 User authentication with Clerk  
-- 🎨 Beautiful UI with Tailwind CSS & Lucide icons  
-- 📊 Grid & List file views  
-- 💳 Razorpay integration for payments  
+| File Details |  |
+| :---: | :---: |
+| ![File Details](https://github.com/user-attachments/assets/65f1a406-f816-4c4e-9f22-123e6d4378b4) |   |
 
-## 🛠️ Tech Stack  
-- **Frontend:** React.js, Tailwind CSS, Clerk Auth, Lucide Icons  
-- **Backend:** Spring Boot  
-- **Database:** MongoDB  
-- **Payments:** Razorpay  
+## Key Features
+
+* **File Management:** Upload, view, download, and delete files with ease.
+* **Access Control:** Toggle files between **public** and **private** modes.
+* **File Sharing:** Generate unique public links for sharing.
+* **User Authentication:** Secure login and signup powered by **Clerk**.
+* **Responsive UI:** Built with **Tailwind CSS** and **Lucide Icons** for a modern experience.
+* **Multiple Views:** Switch between grid and list layouts.
+* **Payment Integration:** Razorpay integration for premium features.
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Lucide Icons](https://img.shields.io/badge/Lucide-Icons-000000?style=for-the-badge&logo=lucide&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-Auth-3B82F6?style=for-the-badge&logo=clerk&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Razorpay](https://img.shields.io/badge/Razorpay-Payments-02042B?style=for-the-badge&logo=razorpay&logoColor=00AEEF)
+
+---
 
 ## 📖 What I Learned  
-- Full-stack integration between React & Spring Boot  
-- Implementing authentication & user-based file access  
-- Building responsive UI with Tailwind CSS  
-- Payment gateway integration with Razorpay  
-- Writing clean, reusable React components  
 
-## 🎯 Use Cases  
-- Portfolio project for developers  
-- Custom file manager for freelancers  
-- Learning resource for students diving into full-stack development
+* Full-stack integration between **React & Spring Boot**  
+* Implementing **authentication** & user-based file access  
+* Building **responsive UIs** with Tailwind CSS  
+* **Payment gateway integration** with Razorpay  
+* Writing **clean, reusable React components**  
 
-  ## 🏃 Getting Started  
-1. Clone the repository  
-```bash
-git clone https://github.com/your-username/cloud-share.git
+---
 
+## Getting Started
 
-2.Backend Setup (Spring Boot)
-Navigate to the backend directory.
-Configure your MongoDB connection details and your Clerk Auth & Razorpay API keys in the application.properties file.
+Follow these steps to set up and run the project locally.
 
-Run the application from your IDE or the command line:
+### Prerequisites
 
-./mvnw spring-boot:run
+* Java JDK 17+
+* Node.js and npm (or yarn)
+* MongoDB Server
+* Maven
+* Clerk account and API keys
+* Razorpay account and API keys
 
-Frontend Setup
-Navigate to the client directory:
-cd client
-Install dependencies:
-npm install
-Start the React application:
-npm run dev
-The application should now be running on http://localhost:5173 (or the port specified in your Vite config).
+### Backend Setup
 
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/cloud-share.git
+    cd cloud-share/backend
+    ```
+2. Configure your `application.properties` file:
+    * MongoDB connection details
+    * Clerk Auth credentials
+    * Razorpay API keys
+3. Run the Spring Boot application:
+    ```bash
+    ./mvnw spring-boot:run
+    ```
 
+### Frontend Setup
 
+1. Navigate to the `client` directory:
+    ```bash
+    cd client
+    ```
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Start the React application:
+    ```bash
+    npm run dev
+    ```
 
-Author
-Vishal Singh - https://www.linkedin.com/in/vishal-singh-81988928b/ - https://github.com/vishalsingh-2004
+The application should now be running on `http://localhost:5173`.
+
+## Author
+
+* Vishal Singh - [LinkedIn](https://www.linkedin.com/in/vishal-singh-81988928b/) - [GitHub](https://github.com/vishalsingh-2004)
+
 Feel free to connect with me if you have any questions or feedback!
 
