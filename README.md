@@ -7,7 +7,7 @@ This project demonstrates a modern development workflow, integrating **Spring Bo
 
 | Landing Page | Dashboard |
 | :---: | :---: |
-| ![Landing Page](https://github.com/user-attachments/assets/2835ed33-f1e7-4141-be6a-a08d82768d42) | ![Dashboard](https://github.com/user-attachments/assets/5a9fda57-0797-45e3-af60-8d34eafc25f6) |
+| ![Landing Page](https://github.com/user-attachments/assets/c2d3770f-d731-47a2-84e8-14dbeb5e1a26) | ![Dashboard](https://github.com/user-attachments/assets/c83dbcbe-5c7e-4aa6-a074-d34a514ff866) |
 
 | File View | Payment Details |
 | :---: | :---: |
@@ -16,6 +16,7 @@ This project demonstrates a modern development workflow, integrating **Spring Bo
 | Signup | Subscription Plan |
 | :---: | :---: |
 | ![Signup](https://github.com/user-attachments/assets/ef0a956f-3056-491e-b9af-b7b957effbe7) | ![Subscription Plan](https://github.com/user-attachments/assets/f6021059-0f84-435b-9122-5d16f9ee960d) |
+
 
 
 ## Key Features
