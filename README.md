@@ -3,16 +3,19 @@
 A full-stack file management system that allows users to securely upload, manage, and share files.  
 This project demonstrates a modern development workflow, integrating **Spring Boot** and **React** with cloud storage, authentication, and payment gateway support.
 
-## Screenshots
+## 📸 Screenshots  
 
-| Dashboard | File List |
-| :---: | :---: |
-| ![Dashboard](<img width="1901" height="914" alt="Dashboard" src="https://github.com/user-attachments/assets/f062de07-2cf4-494c-9c9c-f5f39a847ead" />
-) | ![File List](https://github.com/user-attachments/assets/35e9797f-b9d8-4f5b-b1a6-717994304eb6) |
+| Landing Page | Dashboard |  
+| :---: | :---: |  
+| ![Landing Page](https://github.com/user-attachments/assets/8ef54ac5-8fa9-424f-8858-f0c6a54d173a) | ![Dashboard](https://github.com/user-attachments/assets/35e9797f-b9d8-4f5b-b1a6-717994304eb6) |  
 
-| File Details |  |
-| :---: | :---: |
-| ![File Details](https://github.com/user-attachments/assets/65f1a406-f816-4c4e-9f22-123e6d4378b4) |   |
+| File View | Payment Details |  
+| :---: | :---: |  
+| ![File View](https://github.com/user-attachments/assets/65f1a406-f816-4c4e-9f22-123e6d4378b4) | ![Payment](https://github.com/user-attachments/assets/68af7289-51f6-4eb3-a1d3-628fe61eca3b) |  
+
+| Receipt | Subscription Plan |  
+| :---: | :---: |  
+| ![Receipt](https://github.com/user-attachments/assets/85ce4e6f-7873-4f02-ac4a-1d136d68c358) | ![Subscription Plan](https://github.com/user-attachments/assets/your-subscription-plan-image-id) |  
 
 ## Key Features
 
