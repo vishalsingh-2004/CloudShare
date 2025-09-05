@@ -7,7 +7,8 @@ This project demonstrates a modern development workflow, integrating **Spring Bo
 
 | Dashboard | File List |
 | :---: | :---: |
-| ![Dashboard](https://github.com/user-attachments/assets/8ef54ac5-8fa9-424f-8858-f0c6a54d173a) | ![File List](https://github.com/user-attachments/assets/35e9797f-b9d8-4f5b-b1a6-717994304eb6) |
+| ![Dashboard](<img width="1901" height="914" alt="Dashboard" src="https://github.com/user-attachments/assets/f062de07-2cf4-494c-9c9c-f5f39a847ead" />
+) | ![File List](https://github.com/user-attachments/assets/35e9797f-b9d8-4f5b-b1a6-717994304eb6) |
 
 | File Details |  |
 | :---: | :---: |
