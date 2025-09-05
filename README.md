@@ -7,15 +7,20 @@ This project demonstrates a modern development workflow, integrating **Spring Bo
 
 | Landing Page | Dashboard |  
 | :---: | :---: |  
-| ![Landing Page](https://github.com/user-attachments/assets/8ef54ac5-8fa9-424f-8858-f0c6a54d173a) | ![Dashboard](https://github.com/user-attachments/assets/35e9797f-b9d8-4f5b-b1a6-717994304eb6) |  
+| ![Landing Page](<img width="1901" height="914" alt="Dashboard" src="https://github.com/user-attachments/assets/5bc60fd3-4ba0-4c08-ab44-e7ee62261491" />
+) | ![Dashboard](<img width="1919" height="920" alt="Screenshot 2025-09-04 142001" src="https://github.com/user-attachments/assets/4c21b657-349e-4c26-91b7-37a49513c8b0" />
+) |  
 
 | File View | Payment Details |  
 | :---: | :---: |  
-| ![File View](https://github.com/user-attachments/assets/65f1a406-f816-4c4e-9f22-123e6d4378b4) | ![Payment](https://github.com/user-attachments/assets/68af7289-51f6-4eb3-a1d3-628fe61eca3b) |  
+| ![File View](<img width="1892" height="909" alt="Screenshot 2025-08-20 154056" src="https://github.com/user-attachments/assets/46f8f385-6f6b-4ff5-aecd-788224f6f93c" />
+) | ![Payment](<img width="1915" height="903" alt="Screenshot 2025-08-20 154159" src="https://github.com/user-attachments/assets/de12df42-fb7b-4b02-ad2b-95d520128233" />
+) |  
 
 | Receipt | Subscription Plan |  
 | :---: | :---: |  
-| ![Receipt](https://github.com/user-attachments/assets/85ce4e6f-7873-4f02-ac4a-1d136d68c358) | ![Subscription Plan](https://github.com/user-attachments/assets/your-subscription-plan-image-id) |  
+| ![Receipt](https://github.com/user-attachments/assets/85ce4e6f-7873-4f02-ac4a-1d136d68c358) | ![Subscription Plan](<img width="1917" height="909" alt="Screenshot 2025-08-20 104207" src="https://github.com/user-attachments/assets/40ea81df-60db-497b-8a0d-8fde5194ae46" />
+) |  
 
 ## Key Features
 
