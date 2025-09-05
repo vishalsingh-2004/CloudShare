@@ -9,7 +9,8 @@ This project demonstrates a modern development workflow, integrating **Spring Bo
 | :---: | :---: |  
 | ![Landing Page](<img width="1919" height="904" alt="Screenshot 2025-08-16 101901" src="https://github.com/user-attachments/assets/2835ed33-f1e7-4141-be6a-a08d82768d42" />
 
-) | ![Dashboard](<img width="1901" height="914" alt="Dashboard" src="https://github.com/user-attachments/assets/5bc60fd3-4ba0-4c08-ab44-e7ee62261491" />
+) | ![Dashboard](<img width="1902" height="909" alt="Screenshot 2025-08-20 153718" src="https://github.com/user-attachments/assets/5a9fda57-0797-45e3-af60-8d34eafc25f6" />
+
 ) |  
 
 | File View | Payment Details |  
@@ -18,9 +19,11 @@ This project demonstrates a modern development workflow, integrating **Spring Bo
 ) | ![Payment](<img width="1915" height="903" alt="Screenshot 2025-08-20 154159" src="https://github.com/user-attachments/assets/de12df42-fb7b-4b02-ad2b-95d520128233" />
 ) |  
 
-| Receipt | Subscription Plan |  
+| Login | Subscription Plan |  
 | :---: | :---: |  
-| ![Receipt](https://github.com/user-attachments/assets/85ce4e6f-7873-4f02-ac4a-1d136d68c358) | ![Subscription Plan](<img width="1917" height="909" alt="Screenshot 2025-08-20 104207" src="https://github.com/user-attachments/assets/40ea81df-60db-497b-8a0d-8fde5194ae46" />
+| ![Login]<img width="1896" height="907" alt="Screenshot 2025-08-20 153841" src="https://github.com/user-attachments/assets/ef0a956f-3056-491e-b9af-b7b957effbe7" />
+ | ![Subscription Plan](<img width="1919" height="910" alt="Screenshot 2025-08-20 153803" src="https://github.com/user-attachments/assets/f6021059-0f84-435b-9122-5d16f9ee960d" />
+
 ) |  
 
 ## Key Features
