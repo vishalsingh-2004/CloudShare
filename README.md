@@ -7,8 +7,9 @@ This project demonstrates a modern development workflow, integrating **Spring Bo
 
 | Landing Page | Dashboard |  
 | :---: | :---: |  
-| ![Landing Page](<img width="1901" height="914" alt="Dashboard" src="https://github.com/user-attachments/assets/5bc60fd3-4ba0-4c08-ab44-e7ee62261491" />
-) | ![Dashboard](<img width="1919" height="920" alt="Screenshot 2025-09-04 142001" src="https://github.com/user-attachments/assets/4c21b657-349e-4c26-91b7-37a49513c8b0" />
+| ![Landing Page](<img width="1919" height="904" alt="Screenshot 2025-08-16 101901" src="https://github.com/user-attachments/assets/2835ed33-f1e7-4141-be6a-a08d82768d42" />
+
+) | ![Dashboard](<img width="1901" height="914" alt="Dashboard" src="https://github.com/user-attachments/assets/5bc60fd3-4ba0-4c08-ab44-e7ee62261491" />
 ) |  
 
 | File View | Payment Details |  
